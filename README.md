@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Danilo Mendes and I'm a software developer from Brazil.</h2>
+<h2 align="left">Olá! Meu nome é Danilo Mendes e sou apaixonado por tecnologia.</h2>
 
 ###
 
